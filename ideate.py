@@ -66,10 +66,10 @@ if p == '1':
     webbrowser.open_new_tab('https://unstats.un.org/sdgs/report/2025/The-Sustainable-Development-Goals-Report-2025.pdf')
     webbrowser.open_new_tab('https://sdgs.un.org/goals/goal'+str(i+1))
 
-    if i==1:
+    if i==2:
         webbrowser.open_new_tab('https://sdgs.un.org/sites/default/files/2023-08/SDG_report_2023_infographics_Goal%202.jpg')
     
-    elif i==14:
+    elif i==15:
         webbrowser.open_new_tab('https://sdgs.un.org/sites/default/files/2025-07/2025_SDG_Goal-Level_Social_Media_Cards_Goal_15_-_1_small.png')
     
     else:
